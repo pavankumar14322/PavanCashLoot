@@ -1,0 +1,132 @@
+{
+  "name": "Pavan Cash Loot",
+  "short_name": "PCL",
+  "description": "India's #1 Lifafa & Cash Earning Platform. Play, Bet & Earn Real Money with Dice, Scratch & more.",
+  "start_url": "https://www.PavanCashLoot.xyz/Loots/?source=pwa",
+  "scope": "https://www.PavanCashLoot.xyz/Loots/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f2027",
+  "theme_color": "#3498db",
+  "lang": "en-IN",
+  "dir": "ltr",
+
+  "categories": [
+    "games",
+    "entertainment",
+    "finance",
+    "utilities"
+  ],
+
+  "screenshots": [
+    {
+      "src": "https://www.PavanCashLoot.xyz/Loots/data/images/pcl.jpg",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "platform": "wide"
+    }
+  ],
+
+  "icons": [
+    {
+      "src": "https://www.PavanCashLoot.xyz/Loots/data/images/pcl.jpg",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://www.PavanCashLoot.xyz/Loots/data/images/pcl.jpg",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://www.PavanCashLoot.xyz/Loots/data/images/pcl.jpg",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://www.PavanCashLoot.xyz/Loots/data/images/pcl.jpg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://www.PavanCashLoot.xyz/Loots/data/images/pcl.jpg",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://www.PavanCashLoot.xyz/Loots/data/images/pcl.jpg",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://www.PavanCashLoot.xyz/Loots/data/images/pcl.jpg",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://www.PavanCashLoot.xyz/Loots/data/images/pcl.jpg",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+
+  "related_applications": [
+    {
+      "platform": "web",
+      "url": "https://www.PavanCashLoot.xyz/Loots/"
+    },
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.pavancashloot.app",
+      "id": "com.pavancashloot.app"
+    },
+    {
+      "platform": "itunes",
+      "url": "https://apps.apple.com/in/app/pavan-cash-loot/id1234567890"
+    }
+  ],
+
+  "prefer_related_applications": false,
+
+  "shortcuts": [
+    {
+      "name": "Open Wallet",
+      "short_name": "Wallet",
+      "description": "Quick access to your wallet",
+      "url": "https://www.PavanCashLoot.xyz/Loots/wallet.php",
+      "icons": [{ "src": "https://www.PavanCashLoot.xyz/Loots/data/images/pcl.jpg", "sizes": "96x96" }]
+    },
+    {
+      "name": "Play Dice",
+      "short_name": "Dice",
+      "description": "Play Dice Game instantly",
+      "url": "https://www.PavanCashLoot.xyz/Loots/dice.php",
+      "icons": [{ "src": "https://www.PavanCashLoot.xyz/Loots/data/images/pcl.jpg", "sizes": "96x96" }]
+    },
+    {
+      "name": "Claim Lifafa",
+      "short_name": "Lifafa",
+      "description": "Claim Lifafa instantly",
+      "url": "https://www.PavanCashLoot.xyz/Loots/lifafa.php",
+      "icons": [{ "src": "https://www.PavanCashLoot.xyz/Loots/data/images/pcl.jpg", "sizes": "96x96" }]
+    }
+  ],
+   "share_target": {
+    "action": "https://www.PavanCashLoot.xyz/Loots/share-handler.php",
+    "method": "POST",
+    "enctype": "multipart/form-data",
+    "params": {
+      "title": "shareTitle",
+      "text": "shareText",
+      "url": "shareUrl"
+    }
+  }
+}

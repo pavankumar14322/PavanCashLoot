@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "675120752187",
+    "project_id": "play-store-23575",
+    "storage_bucket": "play-store-23575.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675120752187:android:73fb1a4b9689bb87c2de1e",
+        "android_client_info": {
+          "package_name": "playStore.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD90b7yue9-xi0gMAkHvWIeJbZc1kxrNZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-7181413470434375~3670634463"
+    }
+  ],
+  "configuration_version": "1"
+}
