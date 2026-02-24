@@ -1,0 +1,12 @@
+{
+  "maintenance": false,
+  "bot_token": "7845458490:AAEOvJO84SBQjPD74oRFVAa2Laf9J8oHLRw",
+  "admin_chat_id": "6355858089",
+  "smtp_user": "pavancashloot@pavancashloot.xyz",
+  "smtp_pass": "Pavan#2006",
+  "website": "https://pavancashloot.xyz/Loots/",
+  "admin_email": "pavancashlootweb@gmail.com",
+  "smtp_host": "smtp.hostinger.com",
+  "smtp_port": 587
+}
+

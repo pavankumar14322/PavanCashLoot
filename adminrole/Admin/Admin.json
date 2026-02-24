@@ -1,0 +1,20 @@
+{
+    "maintenance": false,
+    "bot_token": "8291217453:AAFBfpZXbjvv8oQxsr4Bnoki6uEmbgAaq4Q",
+    "admin_chat_id": "5478832701",
+    "smtp_user": "lifafa@lexynova.com",
+    "smtp_pass": "SIAM2022@siam",
+    "website": "https:\/\/siam.lexynova.com\/Loots\/",
+    "admin_email": "siamvai27172@gmail.com",
+    "smtp_host": "smtp.hostinger.com",
+    "smtp_port": 587,
+    "api_status": "on",
+    "min_amount": 1,
+    "max_amount": 1000,
+    "bot_username": "SmartxlifafaVerifier_bot",
+    "logo": "data\/images\/logo.png",
+    "ref_bonus": 1.00, 
+     "refund_on_expiry": true,
+     "send_receipts": true
+
+}

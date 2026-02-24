@@ -1,0 +1,26 @@
+[
+  {
+    "title": "🔥 Exclusive Offer!",
+    "description": "Get ₹50 bonus on first sign-up. Limited time only!",
+    "link": "https://PavanCashLoot.xyz/",
+    "image": "https://PavanCashLoot.xyz/Loots/data/images/logo.png",
+    "button": "Claim Now",
+    "color": "#ff4500"
+  },
+  {
+    "title": "🎁 Win ₹100 Daily",
+    "description": "Play scratch & win games and earn daily.",
+    "link": "https://PavanCashLoot.xyz/scratch",
+    "image": "https://PavanCashLoot.xyz/assets/scratch-banner.jpg",
+    "button": "Play Now",
+    "color": "#28a745"
+  },
+  {
+    "title": "💰 Instant Pay",
+    "description": "Withdraw your bonus instantly to UPI.",
+    "link": "https://PavanCashLoot.xyz/withdraw",
+    "image": "https://PavanCashLoot.xyz/assets/withdraw.jpg",
+    "button": "Withdraw",
+    "color": "#007bff"
+  }
+]
